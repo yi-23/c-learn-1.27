@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
-printf("This is a boy.\n");
-return 0;
-}
+ {
+   printf("This is a boy.\n");
+  return 0;
+ }
